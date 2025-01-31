@@ -6,7 +6,7 @@ A Dash application that provides real-time table management capabilities using R
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/dash-realtime-table.git
+git clone https://github.com/yasamin-khodarahmi/dash-realtime-table.git
 cd dash-realtime-table
 ```
 
