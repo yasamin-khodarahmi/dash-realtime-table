@@ -1,1 +1,33 @@
-# dash-realtime-table
+# Real-Time Table Manager
+
+A Dash application that provides real-time table management capabilities using Redis and WebSocket.
+
+## Setup
+
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/dash-realtime-table.git
+cd dash-realtime-table
+```
+
+2. Create and activate virtual environment:
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
+
+3. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+## Running the Application
+
+1. Make sure Redis is running locally
+
+2. Run the application:
+```bash
+python -m app.main
+```
+
+The application will be available at http://localhost:8050
