@@ -2,6 +2,8 @@
 
 A Dash application that provides real-time table management capabilities using Redis and WebSocket.
 
+https://github.com/user-attachments/assets/9d0d231e-d7fb-4276-9a97-9ccb9c1d7955
+
 ## Setup
 
 1. Clone the repository:
